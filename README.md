@@ -1,4 +1,4 @@
-WebGL-Assignment--
-Nama: Muhammad Vito Ananda Satriana--
-NIM: 2602051112--
-https://satrianavito.github.io/WebGL-Assignment/--
+WebGL-Assignment__
+Nama: Muhammad Vito Ananda Satriana__
+NIM: 2602051112__
+https://satrianavito.github.io/WebGL-Assignment/
