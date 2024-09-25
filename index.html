@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebGL 2D Triangle</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+        }
+
+        #glCanvas {
+            display: block;
+        }
+
+        .button-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="glCanvas" width="600" height="400"></canvas>
+
+    <div class="button-container">
+        <button id="color1">Color 1</button>
+        <button id="color2">Color 2</button>
+        <button id="color3">Color 3</button>
+        <button id="resetColor">Reset Color</button>
+    </div>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>
